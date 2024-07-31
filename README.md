@@ -2,7 +2,6 @@
 <h3 align="center">A dedicated Software Engineer with a strong passion for exploring new technologies and crafting innovative solutions. My expertise lies in Web Development, and I am particularly interested in collaborative projects and contributing to the open-source community. Beyond coding, I enjoy staying updated with industry trends and continuously enhancing my skills. I look forward to connecting with fellow professionals to create impactful and transformative projects.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif">
-<img src="https://komarev.com/ghpvc/?username=im-abdulmannan&label=Profile%20views&color=0e75b6&style=flat" alt="im-abdulmannan" />
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -11,6 +10,8 @@
 - 📫 How to reach me **maheenasad19@gmail.com**
 
 <br> 
+<img src="https://komarev.com/ghpvc/?username=maheeenasad&label=Profile%20views&color=0e75b6&style=flat" alt="maheeenasad" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/maheeenasad">
@@ -24,31 +25,24 @@
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">Languages and Tools:</h3>
-<h4 align="center">Frontend:</h4>
+<h4 align="center">Frontend/Backend:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,redux,tailwind,git,webpack&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,redux,tailwind,git,webpack,cpp,nodejs&theme=light" />
   </a>
 </p>
-
-<h4 align="center">Backend:</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,nodejs&theme=light" />
-  </a>
-</p> 
 
  <h4 align="center">Database:</h4>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=light" />
   </a>
 </p> 
 
  <h4 align="center">Softwares:</h4>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,postman,figma,illustrator,photoshop,xd&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,anaconda,postman,figma,illustrator,photoshop,xd&theme=light" />
   </a>
 </p> 
 
