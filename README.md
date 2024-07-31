@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **Web Development and open-source contributions.**
 
 - 📫 How to reach me **maheenasad19@gmail.com**
 
@@ -25,10 +25,17 @@
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">Languages and Tools:</h3>
-<h4 align="center">Frontend/Backend:</h4>
+<h4 align="center">Frontend:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,redux,tailwind,git,webpack,cpp,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,redux,tailwind,webpack&theme=light" />
+  </a>
+</p>
+
+<h4 align="center">Backend:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,nodejs,py&theme=light" />
   </a>
 </p>
 
@@ -42,7 +49,7 @@
  <h4 align="center">Softwares:</h4>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,anaconda,postman,figma,illustrator,photoshop,xd&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,postman,figma,illustrator,photoshop,xd&theme=light" />
   </a>
 </p> 
 
