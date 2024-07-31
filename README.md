@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif">
 <img src="https://komarev.com/ghpvc/?username=im-abdulmannan&label=Profile%20views&color=0e75b6&style=flat" alt="im-abdulmannan" />
-<br>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
